@@ -1,0 +1,22 @@
+{
+  "name": "not-rapps-2010s",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubinoAM/Favorite-Music-2010s-Not-Rap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rubinoAM/Favorite-Music-2010s-Not-Rap/issues"
+  },
+  "homepage": "https://github.com/rubinoAM/Favorite-Music-2010s-Not-Rap#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
