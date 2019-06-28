@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/rubinoAM/Favorite-Music-2010s-Not-Rap#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongodb": "^3.2.7"
   }
 }
